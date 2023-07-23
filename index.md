@@ -8,15 +8,17 @@ My forte is designing hardware circuits, assembling, and testing the quality of 
 Give me your requirements or your product specification, then we can discuss the timeline, cost, and how can we work together.
 
 Also, I have more than 6 years of experience in designing hardware for IoT Products, Consumer Products, Edge devices so I think I can use my experiences to complete your project with the best result.
+________________________________________________________________________________________________
+  Below is my workflow:
 
-+ Below is my workflow:
 - Receive your detailed requirements or specification, discuss to know what you want and what I need to do.
 - Design block diagram for the circuit: need to be very detailed, it will decide what part will be used in the project.
 - Design schematics: follow block diagram to design schematic for product.
 - Design PCB Layout: with requirement about Mechanical Design and Industrial Design, i will do the PCB Layout the fit with your MD to archive best performance.
 - Extract production data: BOM, CAD, GERBER, DESIGN, ASSEMBLY GUIDELINE, IMPEDANCE CONTROL REQUIREMENTS, ...
+________________________________________________________________________________________________
+  Something about my experience:
 
-+ Something about my experience:
 - About microcontroller: STM32F0/F1/F2/F4/F7, MSP430, MSP432, ATMEGA, ATSAM, PIC, Nuvoton, ...
 - About dev board: Arduino, RPi, Teensy, TI devkit, ESP32 devkit, ...
 - About Wireless MCU: ESP8266, ESP32, CC2530, CC2538, nRF5340, nRF51822, nRF52810/nRF52832/nRF52840,...
@@ -25,8 +27,9 @@ Also, I have more than 6 years of experience in designing hardware for IoT Produ
 - About GPRS/3G/LTE Module: SIM800C/H, SIM900A, SIM908, SIM7600 series, Quectel MC60/M95, SIM7090G...
 - About highspeed PCB Design: DDR3/DDR4, SATA, HDMI, USB2.0/3.0/TypeC, eMMC, ...
 - About Mass Production: I can help you prepare production data that help you do the mass production, I am producing devices for some startups with quantity up to 100000 pcs/year.
+________________________________________________________________________________________________
+  Some of the products that I have designed and released to the market:
 
-+ Some of the products that I have designed and released to the market:
 - IoT products: Wearable devices tracking the biological index, Devices control hub over Wifi, Internet, Bluetooth, OBD devices,...
 - Smart Home Product:
 Design Home Gateway with Ethernet, WiFi, Zigbee and TFT LCD, ...
