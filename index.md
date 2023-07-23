@@ -1,17 +1,40 @@
 # Introduction
 
-I have 6+ years' experience firmware and software development for IOT device. 
+Hello!
 
-There is experience in embedded firmware/software using C/C++ for almost of popular MCU, SOC, SOM: STM32, NRF52, ESP32, EFM32, EFR32, SAM32, ... And network communication BLE, WIFI, NFC, ETH, USB, CANBUS, MODBUS. Development the mobile app iOS, Android (C# .NET, Xamarin), desktop application Windows, Linux (C#, Python).
+My name is Hiep, I am an embedded hardware design engineer.
 
-Key experiences:
-- MCU/SOC/SOM programming C/C++, Debugging, Bug-Fixing.
-- Communication protocol: WIFI, ETH, BLE, CAN, MODBUS, NFC, USB(WINUSB, LIBUSB, WCID), Gateway.
-- RTOS: freeRTOS, Azure RTOS - threadx, multi tasking/threading, none-blocking.
-- Embedded GUI: TouchGFX, Azure GUIX, LVGL.
-- Low power consumption.
+My forte is designing hardware circuits, assembling, and testing the quality of the circuit.
+Give me your requirements or your product specification, then we can discuss the timeline, cost, and how can we work together.
 
-Quickly analysis and apply open-source project to reduce development period and bring prototype to product.
+Also, I have more than 6 years of experience in designing hardware for IoT Products, Consumer Products, Edge devices so I think I can use my experiences to complete your project with the best result.
+
++ Below is my workflow:
+- Receive your detailed requirements or specification, discuss to know what you want and what I need to do.
+- Design block diagram for the circuit: need to be very detailed, it will decide what part will be used in the project.
+- Design schematics: follow block diagram to design schematic for product.
+- Design PCB Layout: with requirement about Mechanical Design and Industrial Design, i will do the PCB Layout the fit with your MD to archive best performance.
+- Extract production data: BOM, CAD, GERBER, DESIGN, ASSEMBLY GUIDELINE, IMPEDANCE CONTROL REQUIREMENTS, ...
+
++ Something about my experience:
+- About microcontroller: STM32F0/F1/F2/F4/F7, MSP430, MSP432, ATMEGA, ATSAM, PIC, Nuvoton, ...
+- About dev board: Arduino, RPi, Teensy, TI devkit, ESP32 devkit, ...
+- About Wireless MCU: ESP8266, ESP32, CC2530, CC2538, nRF5340, nRF51822, nRF52810/nRF52832/nRF52840,...
+- About Sensor: light sensor, CO, Smoke Sensor, Dust Sensor, Air Sensor, pH sensor, IMU sensor, Accelero, Gyro sensor, Biosensor (Heart rate, Blood pressure, ECG, EMG, EEG,...),...
+- About wireless communication: WiFi, BLE4.0/4.1/4.0/5.0, Lora, Zigbee, NFC,...
+- About GPRS/3G/LTE Module: SIM800C/H, SIM900A, SIM908, SIM7600 series, Quectel MC60/M95, SIM7090G...
+- About highspeed PCB Design: DDR3/DDR4, SATA, HDMI, USB2.0/3.0/TypeC, eMMC, ...
+- About Mass Production: I can help you prepare production data that help you do the mass production, I am producing devices for some startups with quantity up to 100000 pcs/year.
+
++ Some of the products that I have designed and released to the market:
+- IoT products: Wearable devices tracking the biological index, Devices control hub over Wifi, Internet, Bluetooth, OBD devices,...
+- Smart Home Product:
+Design Home Gateway with Ethernet, WiFi, Zigbee and TFT LCD, ...
+Design Smart Switch with capacitive touch, Zigbee communication, 220VAC/110VAC load control, ...
+- Tracking Device: Using 3G/4G with GPS, this device is used for personal tracking
+... and a lot of other products ...
+
+I really hope to work with you, to help you complete your project and release your product to the market
 
 # Experiences
 
