@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
 title: <p align="center">HIEP Le</p>
-logo: "/assets/img/logo.png?raw=true"
+logo: "/assets/img/changdung.jpg?raw=true"
 description: <b>Embedded Firmware/Software</b>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
