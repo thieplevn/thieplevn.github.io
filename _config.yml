@@ -3,7 +3,7 @@ plugins:
   - jekyll-seo-tag
 title: <p align="center">HIEP Le</p>
 logo: "/assets/img/chandung - Circle.jpg?raw=true"
-description: <b>Embedded Firmware/Software</b>
+description: <b>Embedded Hardware Expert</b>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
   <br>
@@ -12,23 +12,23 @@ description: <b>Embedded Firmware/Software</b>
   
   <br>
   <i style="font-size:18px;color:#4485e0" class="fa fa-envelope"></i>
-  <a href="mailto:phat.nt@hotmail.com">Email</a>
+  <a href="mailto:thieplevn@gmail.com">Email</a>
   
   <br>
   <i style="font-size:18px;color:black" class="fa fa-github"></i>
-  <a href="https://github.com/pnt325" target="_blank">Github</a>
+  <a href="https://github.com/thieplevn" target="_blank">Github</a>
   
   <br>
   <i style="font-size:18px;color:#0077b5" class="fa fa-linkedin"></i>
-  <a href="https://www.linkedin.com/in/phatnt/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/hieplevn/">Linkedin</a>
   
   <br>
   <i style="font-size:18px;color:red" class="fa fa-youtube"></i>
-  <a href="https://www.youtube.com/c/PhatNguyenDIY" target="_blank">Youtube</a>
+  <a href="https://www.youtube.com/channel/UC_2lQAybLcYgRXPrHIIsfmA" target="_blank">Youtube</a>
 
   <br>
   <i style="font-size:18px;color:#4267B2" class="fa fa-facebook"></i>
-  <a href="https://www.facebook.com/phatnt325" target="_blank">Facebook</a>
+  <a href="https://www.facebook.com/thieplevn" target="_blank">Facebook</a>
 
 relative_links:
   enabled:     true
